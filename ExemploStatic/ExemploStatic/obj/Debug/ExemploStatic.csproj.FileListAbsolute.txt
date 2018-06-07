@@ -1,0 +1,5 @@
+C:\Users\104968\OneDrive\Documentos\GitHub\ExemploStatic\ExemploStatic\ExemploStatic\bin\Debug\ExemploStatic.exe.config
+C:\Users\104968\OneDrive\Documentos\GitHub\ExemploStatic\ExemploStatic\ExemploStatic\bin\Debug\ExemploStatic.exe
+C:\Users\104968\OneDrive\Documentos\GitHub\ExemploStatic\ExemploStatic\ExemploStatic\bin\Debug\ExemploStatic.pdb
+C:\Users\104968\OneDrive\Documentos\GitHub\ExemploStatic\ExemploStatic\ExemploStatic\obj\Debug\ExemploStatic.exe
+C:\Users\104968\OneDrive\Documentos\GitHub\ExemploStatic\ExemploStatic\ExemploStatic\obj\Debug\ExemploStatic.pdb
